@@ -1,0 +1,24 @@
+html, body {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;  
+}
+.form {
+    padding: 30px
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 23px;
+    display:inline-block;
+    justify-content: center;
+transition: 0.5s;
+}
+.input {
+padding: 20px
+margin: 0 3px;
+border: 2px solid black;
+border-radius: 23px;
+display:inline-block;
+justify-content: center;
+transition: 0.5s;  
+}
